@@ -1,0 +1,3 @@
+﻿  TwitterTowers.cpp
+C:\Users\The user\Desktop\T2\T2\TwitterTowers.cpp(33,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  T2.vcxproj -> C:\Users\The user\Desktop\T2\x64\Debug\T2.exe
